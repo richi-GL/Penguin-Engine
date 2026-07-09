@@ -1,0 +1,7 @@
+/home/richi_data/Desktop/Proyectos/Penguin (Engine)/builds/CMakeFiles/penguin.dir
+/home/richi_data/Desktop/Proyectos/Penguin (Engine)/builds/CMakeFiles/edit_cache.dir
+/home/richi_data/Desktop/Proyectos/Penguin (Engine)/builds/CMakeFiles/rebuild_cache.dir
+/home/richi_data/Desktop/Proyectos/Penguin (Engine)/builds/CMakeFiles/list_install_components.dir
+/home/richi_data/Desktop/Proyectos/Penguin (Engine)/builds/CMakeFiles/install.dir
+/home/richi_data/Desktop/Proyectos/Penguin (Engine)/builds/CMakeFiles/install/local.dir
+/home/richi_data/Desktop/Proyectos/Penguin (Engine)/builds/CMakeFiles/install/strip.dir
