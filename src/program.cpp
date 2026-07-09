@@ -71,7 +71,7 @@ int main()
     {
         renderer.Clear(); 
 
-        // Activamos shader y mandamos color (Rojo)
+    
         shader.Bind();
         shader.SetUniform4f("u_Color", 1.0f, 0.0f, 0.0f, 1.0f);
 
